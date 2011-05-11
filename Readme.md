@@ -1,7 +1,7 @@
 # sessionvoc-client
 
 sessionvoc-client is client for a secure, reliable, external session
-database, the SessionVOC (see https://www.worldofvoc.com/ ).
+database, the SessionVOC (see http://www.worldofvoc.com/ for details).
 
 ## Installation
 
