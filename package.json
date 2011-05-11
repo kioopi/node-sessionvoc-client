@@ -1,6 +1,6 @@
 {
   "name": "sessionvoc-client",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Client interfacing with a SessionVOC",
   "author": "Frank Celler <f.celler@triagens.de>",
   "contributors": ["Vangelis Tsoumenis <vtsoumenis@codevise.de>"], 
