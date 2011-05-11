@@ -11,7 +11,7 @@ via npm:
 
 ## Example
 
-    var sessionvoc = require('sessionvoc-client'); 
-    var svoc = sessionvoc.createClient('localhost', 8208).on("ready", function(){ 
-      // ready for business. 
-    }); 
+    var svc = require('sessionvoc-client');
+    var client = svc.createClient().on('ready', function() {console.log('ready for business');});
+    
+    client.createSession(function(err,data) {console.log("sid = " + data);});
