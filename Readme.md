@@ -1,7 +1,11 @@
 # sessionvoc-client
 
 sessionvoc-client is client for a secure, reliable, external session
-database, the SessionVOC (see http://www.worldofvoc.com/ for details).
+database, the SessionVOC. The SessionVOC is a noSQL database optimized
+for the management of user sessions. Additionally, the SessionVOC
+establishes security mechanisms that are difficult to implement with
+other session management systems (see http://www.worldofvoc.com/ for
+details).
 
 ## Installation
 
